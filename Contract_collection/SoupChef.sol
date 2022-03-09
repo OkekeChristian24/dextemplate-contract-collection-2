@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: MIT
+
 pragma solidity 0.8.0;
 
 import './flutterswap-swap-lib/contracts/math/SafeMath.sol';
