@@ -295,7 +295,7 @@ library FlutterswapLibrary {
                 hex'ff',
                 factory,
                 keccak256(abi.encodePacked(token0, token1)),
-                hex'0f948b20ae5615dd580d7ea5ef414bbe84c43b28a3431cfd4c7dc97d59143c28' // init code hash
+                hex'45c6cd5a3f8e7f6ea3ba888fc2e7c85afcbc2014f1ca0a629c4ab08158297269' // init code hash
             ))));
     }
 

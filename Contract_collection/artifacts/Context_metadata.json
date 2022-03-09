@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.6.12+commit.27d51765"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Contract_collection/AutoFswap.sol": "Context"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Contract_collection/AutoFswap.sol": {
+			"keccak256": "0x1455874939a72862eba240acb2ae299dd59a62a6fe9bad0c0ef0641bd9bc8536",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://1f2bbefb222d4cc0b60e5e69237e51e997556f9e2d25703499cb565da012943f",
+				"dweb:/ipfs/QmRcAZ1FqorC2p9fN4aZgj2sNbUbg6ARw8jW6MaGft8oHn"
+			]
+		}
+	},
+	"version": 1
+}

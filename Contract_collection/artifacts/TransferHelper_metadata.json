@@ -1,0 +1,40 @@
+{
+	"compiler": {
+		"version": "0.6.6+commit.6c089d02"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Contract_collection/FlutterswapRouter.sol": "TransferHelper"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Contract_collection/FlutterswapRouter.sol": {
+			"keccak256": "0xa9c036a7dd8e0f9cb953f6cac446d59234cf9d7d3065ba6d5b361aeae0f789f4",
+			"urls": [
+				"bzz-raw://ffec53c86ad9589f0094960e0ce18d8639f5a668c446302546acbe06d596f56e",
+				"dweb:/ipfs/QmXbMFN63Kz1U96kxYLZMaJNxehxKhXHdGQiXVJ2i8BxtV"
+			]
+		}
+	},
+	"version": 1
+}
