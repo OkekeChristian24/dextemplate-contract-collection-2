@@ -19,7 +19,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Contract_collection/smartChefFactory.sol": "ReentrancyGuard"
+			"smartChefFactory2.sol": "ReentrancyGuard"
 		},
 		"evmVersion": "istanbul",
 		"libraries": {},
@@ -33,12 +33,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"Contract_collection/smartChefFactory.sol": {
-			"keccak256": "0x912abd6598aec1201c06fa9b16c1b279e8ca6af16ff2ccf29bb53493c97bb8cf",
+		"smartChefFactory2.sol": {
+			"keccak256": "0x2fdde2eed1c4517b4b7249b1185052a87c5c963176618fcff724b3a02e87a71c",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://d6701cb367351e980104c1188e23a36e475062c5e6cf62db5406a0476cf9143b",
-				"dweb:/ipfs/QmaHrBzPkeenmbEkLjJtMbJkneMh78tQCptYF4DHt5VDop"
+				"bzz-raw://0afb3d5cf408ea4cef0d7fe9ebda378eda20902f2c16bd15efed525251c0c484",
+				"dweb:/ipfs/QmNvZXr3KCPKMgqT6XqJqos22AvLF1UYfvDAxK2B8siG79"
 			]
 		}
 	},

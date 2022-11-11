@@ -19,7 +19,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Contract_collection/AutoFswap.sol": "Address"
+			"smartChefFactory2.sol": "Address"
 		},
 		"evmVersion": "istanbul",
 		"libraries": {},
@@ -33,12 +33,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"Contract_collection/AutoFswap.sol": {
-			"keccak256": "0x1455874939a72862eba240acb2ae299dd59a62a6fe9bad0c0ef0641bd9bc8536",
+		"smartChefFactory2.sol": {
+			"keccak256": "0x2fdde2eed1c4517b4b7249b1185052a87c5c963176618fcff724b3a02e87a71c",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://1f2bbefb222d4cc0b60e5e69237e51e997556f9e2d25703499cb565da012943f",
-				"dweb:/ipfs/QmRcAZ1FqorC2p9fN4aZgj2sNbUbg6ARw8jW6MaGft8oHn"
+				"bzz-raw://0afb3d5cf408ea4cef0d7fe9ebda378eda20902f2c16bd15efed525251c0c484",
+				"dweb:/ipfs/QmNvZXr3KCPKMgqT6XqJqos22AvLF1UYfvDAxK2B8siG79"
 			]
 		}
 	},
